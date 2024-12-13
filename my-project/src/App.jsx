@@ -1,7 +1,7 @@
-import HeroSection from './component/HeroSection';
-import Navbar from './component/Navbar';
-import Offer from './component/Offer';
-import Footer from './component/footer';
+import HeroSection from './component/HeroSection.jsx';
+import Navbar from './component/Navbar.jsx';
+import Offer from './component/Offer.jsx';
+import Footer from './component/footer.jsx';
 
 const App = () => {
   return (
