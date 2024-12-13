@@ -58,7 +58,7 @@ const Navbar = () => {
 					</ul>
 					<div className="flex space-x-6">
 						<div className="py-1 px-1 border-2 border-darkred rounded-md h-17 w-17">
-							<Moon className="rounded-full bg-darkred px-1 py-1 h-17 w-17 z-50"/>
+							<Moon className="rounded-full bg-darkred px-1 py-1 h-17 w-17"/>
 						</div>
 						<a href="#" className="py-2 px-3 border rounded-md">
 							Get a project
