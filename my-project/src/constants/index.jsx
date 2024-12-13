@@ -1,23 +1,10 @@
-/* import DigitalOcean from '../assets/DOCN.svg'; */
-/* import Azure from '../assets/azure.svg'; */
-
 import { CircleCheck } from 'lucide-react';
-/* import { Cpu } from 'lucide-react';
-import { Globe } from 'lucide-react';
-import { CloudUpload } from 'lucide-react';
-import { ShieldCheck } from 'lucide-react'; */
 
 import Cpu from '../assets/cpu-svgrepo-com.svg';
 import Globe from '../assets/globe-alt-svgrepo-com.svg';
 import CloudUpload from '../assets/cloud-upload-svgrepo-com.svg';
 import ShieldCheck from '../assets/shield-check-svgrepo-com.svg';
 
-/* export const navItems = [
-    { label: "Features", href: "#" },
-    { label: "Workflow", href: "#" },
-    { label: "Pricing", href: "#" },
-    { label: "Testimonials", href: "#" },
-  ]; */
 
   export const navItems = [
     { label: "Service", href: "#" },
@@ -25,22 +12,6 @@ import ShieldCheck from '../assets/shield-check-svgrepo-com.svg';
     { label: "Blogs", href: "#" },
     { label: "Jobs", href: "#" },
   ];
-
-/* export const iconItems = [
-  { icon: DigitalOcean, name: "DigitalOcean" },
-  { icon: Azure, name: "Azure" },
-  { icon: Github, name: "Github" },
-  { icon: Cloud, name: "GoogleCloud" },
-  { icon: Linode, name: "linode"},
-  { icon: Flare, name: "CLOUDFLARE" },
-]; */
-
-/* export const cardDataArray = [
-  { cardNo: "01"},
-  {cardHeadingImg: Cpu},
-  {cardTitle: "Development"},
-  {listItems: ["UIUX", "DevOps", "Web design", "Frontend dev", "Backend dev"]},
-] */
 
   export const cardDataArray = [
     {
