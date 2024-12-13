@@ -42,7 +42,7 @@ const Offer = () => {
 
 			<div className='max-w-7xl px-6 pb-16'>
 				<h1 className='text-center text-3xl'>Our Superpowers</h1>
-				<div className='pt-12 px-6 mx-auto md:grid md:grid-cols-3 gap-6 lg:flex lg:flex-row lg:justify-between lg:items-center'>
+				<div className='pt-12 px-6 mx-auto grid grid-cols-3 gap-6 lg:flex lg:flex-row lg:justify-between lg:items-center'>
 					<img src={Javascript} alt="javascript" className='w-14 h-14' />
 					<img src={vue} alt="javascript" className='w-14 h-14' />
 					<img src={prisma} alt="javascript" className='w-14 h-14' />
